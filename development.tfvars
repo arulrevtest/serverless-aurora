@@ -1,9 +1,9 @@
 region = "us-west-2"
 
 vpc_state_config = {
-  bucket = "karakaram-tfstate"
+  bucket = "arulkumar-tfstate"
   key    = "env:/development/my-vpc.tfstate"
-  region = "ap-northeast-1"
+  region = "eu-west-1"
 }
 
 name = "my-aurora-serverless"

@@ -1,3 +1,3 @@
-bucket = "karakaram-tfstate"
+bucket = "arulkumar-tfstate"
 key = "my-aurora-serverless.tfstate"
-region = "ap-northeast-1"
+region = "eu-west-1"

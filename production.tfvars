@@ -1,7 +1,7 @@
-region = "ap-northeast-1"
+region = "eu-west-1"
 
 vpc_state_config = {
-  bucket = "karakaram-tfstate"
+  bucket = "arulkumar-tfstate"
   key    = "env:/production/my-vpc.tfstate"
   region = "ap-northeast-1"
 }
